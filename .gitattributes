@@ -1,0 +1,7 @@
+
+ comportamento de fim de linha para todos os arquivos
+* text=auto
+
+# Define o comportamento específico para arquivos JavaScript
+*.js text eol=lf
+
